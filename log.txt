@@ -11,3 +11,8 @@
 
 12/30/23 10:08am - starting mooc p2
 12/30/23 8:38pm - finished mooc p2
+
+12/31/23 7:51am - starting mozilla js tutorial
+12/31/23 10:27am - stopped tutorial, on html basics
+
+1/1/2024 1:38pm - happy new year, time to work on js tutorial again

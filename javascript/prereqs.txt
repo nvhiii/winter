@@ -1,0 +1,16 @@
+IDE or TEXT EDITOR
+- VSCode <- fully built and dedicated IDE
+- Notepad++ <- Good text editor, not as robust
+
+WEB BROWSER(S)
+- Google Chrome
+- Microsoft Edge
+- Firefox
+
+Local Testing Server
+- MAMP
+
+Version Control
+- Github
+
+Libraries, automation stuff, etc.
