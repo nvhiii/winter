@@ -17,3 +17,6 @@
 
 1/1/2024 1:38pm - happy new year, time to work on js tutorial again
 1/1/2024 4:36pm - going to the gym for a bit, on odin project, on computer basics rn
+
+1/2/2024 2:27pm - going to finish the odin proj section i was on now, will revisit mooc soon for refresher.
+1/2/2024 6:16pm - not really coding today, mainly refreshers on internet, DNS, protocols, familiarization with VMs
