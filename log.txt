@@ -27,3 +27,4 @@
 
 1/5/2024 1:55pm - finished arraylists of p3 mooc, will do arrays later, after catching up on odins proj.
 		  Taking a break for a hour or so now.
+1/5/2024 4:35pm - back to do js review now
