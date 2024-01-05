@@ -1,0 +1,72 @@
+/ before = root dir
+/ in between dir = separator
+
+-ls = listing
+
+cd with specified directory = change dir
+
+cd without any args = go to home dir
+
+
+Use ls --help for help using ls command
+
+Or use man ls for a manual
+
+For built in functions, like cd: do help cd
+
+-l = long listing format
+
+-h = human readable (truncation)
+
+-t = list items based on time of last change
+
+-r = list contents in reverse order
+
+-a = show all (including all hidden files)
+
+~ can be used at beginning of dir to specifiy something location
+
+"cd -" can be used to go back and forth from 2 directories consecutively
+
+Format of a Shell Command:
+1. Prompt
+2. Command
+3. Option
+4. Argument
+
+Commands dont always need options or arguments, but they can have multiple of each
+
+- = short option (use in shell to be fast)
+-- = long option (use in scripts for clarity)
+
+Options can be called switches or flags, especially if they don't have arguments
+
+-s = size of file
+
+-S = sort files by sizes
+
+-p = allows for multiple creations using mkdir at same time
+
+-R = option for LS to recursively show all listed subdir
+
+nano = text editor in linux, similar to emacs / vim / notepad++ / vscode,
+       Syntax:
+       nano [name here].txt
+
+       To save ctrl + o, then return to save. ctrl + x to exit to shell
+
+touch = can be used to create blank file in current dir
+	Syntax:
+	touch [name here].txt
+
+	Just return here
+
+rm = remove specified file
+	Syntax:
+	rm [name here].[extension here]
+
+	Just return here
+
+mv = move file to a specified location
+	Syntax:
+	mv [path]/[fileToMove] [location or name to rename to]
