@@ -96,6 +96,14 @@ cp = copy file to specified location
 
 mkdir = make directory
 
+-i = human (I)nteraction, basically 2-step
+
+-r = recursively
+
+-m = count char
+
+-w = word count
+
 Wildcards:
 
 * = zero or more charas
@@ -123,8 +131,102 @@ wc = word count
 
 	* If you type wc -[any of the options above], type ctrl + c to exit this state
 
+> = redirect
+
+	Syntax:
+
+	wc -l [wildcard and/or files] > [fileToSendTo].extension
+
+	* Has no screen output, because it goes directly into the file
+	** If file doesn't exist, shell auto creates or if it exists, then overwritten
+
+
+cat = concatenate (join together)
+
+	Syntax:
+
+	cat [filename].txt
+
+	^ prints contents of file, all at once
+
+less = better concatenate
+
+	Syntax:
+
+	less [filename].txt
+
+	^ prints contents of file, page by page
+	* Go front = space, back = b, quit = q
+
+sort = sort alphabetically
+
+	Syntax:
+
+	sort [filename].txt
+
+	sort -n [filename].txt
+
+	^ sorts numerically
+
+	** this command doesn't change file, sorts the result to screen instead
+
+-n = numerically
+
+head = gives first n line of the file
+
+	Syntax:
+
+	head -n 1 [filename].txt // first 1 line
+				 // -n 20 would be first 20, etc.
+
+>> = appends to file if it already exists
+
+| = pipe, output of left command = input of right
+
+	^ pipes work in unison with filters like so:
+
+	Syntax:
+
+	wc -l *.txt | sort -n | head -n 3 // prints 3 files with least # of lines
+
+	^ here head is the last command, "pipes and filters"
+
+filter = programs like wc, sort, etc that transforms stream of input into output
+
+-d = option to specify a delimiter
+
+	Syntax:
+
+	[prompt] [command] -d [delimiter chara]
+
+-f = option to specify a field in a data file
+
+	Syntax:
 	
+	[prompt] [command] -f [number of the column] [filename]
 
 
+cut = command to cut / remove sections of each line in file
+
+	^ lines expected to be separated by a tab chara
+
+uniq = unique keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
