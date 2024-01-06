@@ -35,7 +35,7 @@ For built in functions, like cd: do help cd
 Format of a Shell Command:
 1. Prompt
 2. Command
-3. Option
+3. Option (stuff with - or --)
 4. Argument
 
 Commands dont always need options or arguments, but they can have multiple of each
@@ -103,6 +103,27 @@ Wildcards:
 ? = exactly one chara
 
 	^ used almost similarly to loops for repetitive movement of files
+
+wc = word count
+	
+	^ used to check word count of specified file(s), is shown as a total as the bottom row total
+
+	Syntax:
+	wc -l [file with extension here], can use wildcard
+	
+	^ returns only total # of lines in the file (or files)
+
+	wc -m [file with extension here], can use wildcard
+
+	^ returns only total number of char in file(s)
+
+	wc -w [file with extension here], can use wildcard
+
+	^ returns only total number of words in file(s)
+
+	* If you type wc -[any of the options above], type ctrl + c to exit this state
+
+	
 
 
 
