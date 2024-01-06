@@ -1,12 +1,16 @@
 / before = root dir
+
 / in between dir = separator
+
+. = current dir
+
+.. = parent dir ("one lvl up")
 
 -ls = listing
 
 cd with specified directory = change dir
 
 cd without any args = go to home dir
-
 
 Use ls --help for help using ls command
 
@@ -67,6 +71,39 @@ rm = remove specified file
 
 	Just return here
 
+	* good practice to do r -i (human interaction guarantee)
+	  Answer: Y to remove, N to keep
+
+	^ If this is used when removing entire path, will be prompted to press y or n for each respective file
+
+	^ Only works on files, but can do rm -r -i for dir too
+
 mv = move file to a specified location
 	Syntax:
 	mv [path]/[fileToMove] [location or name to rename to]
+
+	* works on directories as well
+	* good practice to do mv -i (interactive, so you need to confirm before possible overwrite)
+	  (mv --interactive)
+
+	  Answer: Y to move, N to keep
+
+cp = copy file to specified location
+	Syntax:
+	cp [path]/[fileToCopy] [pathToCopyTo]/[nameToCopyAs]
+
+	^ Can do cp -r to copy entire dir, cuz this method is only for files, so need recursion
+
+mkdir = make directory
+
+Wildcards:
+
+* = zero or more charas
+
+? = exactly one chara
+
+	^ used almost similarly to loops for repetitive movement of files
+
+
+
+
