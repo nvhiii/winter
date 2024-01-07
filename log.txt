@@ -32,4 +32,5 @@
 1/6/2024 2:55pm - will start pipes and filters soon, need to go out to eat for now.
 1/6/2024 6:02pm - finished pipes and filters, will work on the problems when i get home, then resume mooc work
 
-1/7/2024 - 10:43am - working on "sitemap" for fitness tracking app, then revisit the last portion of the linux cli tutorial
+1/7/2024 10:43am - working on "sitemap" for fitness tracking app, then revisit the last portion of the linux cli tutorial
+1/7/2024 12:57pm - working on linux cli stuff now
