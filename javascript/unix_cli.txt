@@ -1,3 +1,9 @@
+ctrl + alt + t = terminal
+
+ctrl + x or q to exit
+
+poweroff to turn off vm
+
 / before = root dir
 
 / in between dir = separator
