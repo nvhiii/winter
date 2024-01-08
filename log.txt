@@ -34,3 +34,4 @@
 
 1/7/2024 10:43am - working on "sitemap" for fitness tracking app, then revisit the last portion of the linux cli tutorial
 1/7/2024 12:57pm - working on linux cli stuff now
+1/7/2024 7:39pm - finished mooc p3 arrays, start tmm with strings then odin
