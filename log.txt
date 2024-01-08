@@ -37,3 +37,4 @@
 1/7/2024 7:39pm - finished mooc p3 arrays, start tmm with strings then odin
 
 1/8/2024 11:09am - working on p3 mooc, strings subsection
+1/8/2024 1:08pm - p3 mooc done, next is files -> working on js later
