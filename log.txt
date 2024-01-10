@@ -44,3 +44,6 @@
 
 1/9/2024 7:10pm - configure git + github on vm
 1/9/2024 7:35pm - readings on version control, precursor to js tutorial still.
+
+1/10/2024 10am - intro to git tutorial stuff
+1/10/2024 10:38 - learning about html basics rn, mainly tags / elements
