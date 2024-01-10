@@ -38,3 +38,9 @@
 
 1/8/2024 11:09am - working on p3 mooc, strings subsection
 1/8/2024 1:08pm - p3 mooc done, next is files -> working on js later
+
+1/9/2024 6pm - linux cli almost done
+1/9/2024 7:10pm - linux cli basics done
+
+1/9/2024 7:10pm - configure git + github on vm
+1/9/2024 7:35pm - readings on version control, precursor to js tutorial still.
