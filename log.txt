@@ -49,3 +49,4 @@
 1/10/2024 10:38am - learning about html basics rn, mainly tags / elements
 1/10/2024 11:34am - finished review on boilerplates, now onto text mainly.
 1/10/2024 7:25pm - getting to text portion of tutorial
+1/10/2024 8:32pm - wrapping up for today, finished up to lists
