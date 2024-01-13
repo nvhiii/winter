@@ -28,7 +28,7 @@ public class whistle {
         // method invocation
         duckWhistle.sound();
         roosterWhistle.sound();
-        duckWhistle.sound();    
+        duckWhistle.sound();
 
     }
 
