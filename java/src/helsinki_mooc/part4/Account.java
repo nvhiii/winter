@@ -3,8 +3,8 @@ package helsinki_mooc.part4;
 
 public class Account {
 
-    String name;
-    double money;
+    private String name;
+    private double money;
 
     // constructor
     public Account(String accName, double accMoney) {
