@@ -1,0 +1,7 @@
+{
+
+    "vscodeGitCommit.template": [
+        "{type}: {title}\n\n{body}\n\nIssue #{issue}"
+      ]
+
+}
