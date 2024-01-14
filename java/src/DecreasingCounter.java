@@ -1,5 +1,3 @@
-package helsinki_mooc.part4;
-
 public class DecreasingCounter {
     private int value;   // a variable that remembers the value of the counter
 
@@ -19,6 +17,12 @@ public class DecreasingCounter {
             this.value -= 1;
 
         }
+
+    }
+
+    public void reset() {
+
+        this.value = 0;
 
     }
     // and the other methods go here

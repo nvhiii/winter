@@ -1,4 +1,4 @@
-package helsinki_mooc.part4;
+
 
 public class DCMain {
 
@@ -12,6 +12,9 @@ public class DCMain {
         counter.printValue();
 
         counter.decrement();
+        counter.printValue();
+
+        counter.reset();
         counter.printValue();
 
         /*
