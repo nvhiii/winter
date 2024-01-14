@@ -57,3 +57,5 @@
 1/12/2024 5:59pm - working on making my git commits better
 1/12/2024 6:56pm - will do recipes js proj tomorrow, will review java in a bit
 1/12/2024 7pm - Had to fix git commit message. Semantics error.
+
+1/14/2024 12:45pm - working on OOP helsinki
