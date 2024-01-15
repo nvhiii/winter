@@ -60,3 +60,5 @@
 
 1/14/2024 12:45pm - working on OOP helsinki
 1/14/2024 8:57pm - finished intro OOP mooc, JS tomorrow start
+
+1/15/2024 1:46pm - finished obj in list, will update when i start odin proj again
