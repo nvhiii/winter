@@ -59,3 +59,4 @@
 1/12/2024 7pm - Had to fix git commit message. Semantics error.
 
 1/14/2024 12:45pm - working on OOP helsinki
+1/14/2024 8:57pm - finished intro OOP mooc, JS tomorrow start
