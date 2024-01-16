@@ -65,3 +65,4 @@
 1/15/2024 8:42pm - working on css foundations on odin, done for the day
 
 1/16/2024 12:47pm - starting css foundations part now
+1/16/2024 1:44pm - finished foundations, on cascading lesson 06 assignment, will come back later
