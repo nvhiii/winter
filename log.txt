@@ -63,3 +63,5 @@
 
 1/15/2024 1:46pm - finished obj in list, will update when i start odin proj again
 1/15/2024 8:42pm - working on css foundations on odin, done for the day
+
+1/16/2024 12:47pm - starting css foundations part now
