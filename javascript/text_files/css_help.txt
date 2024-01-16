@@ -1,0 +1,23 @@
+- currently working on basic css styling
+- :hover is a selector
+- transtion is a powerful property
+	Syntax:
+	parent class / property {
+		transition: transform [time in sec or ms] ease-[in-out, etc.], any other functions followed by same format
+	
+	parent class:selector {
+		transform: scale(1.1);
+	}
+- transform is also a valuable function, many others like it which can be used for fluid sites
+- opacity property
+- translate function
+- in popups
+	Syntax:
+	parent class / property {
+		transition: translate 275ms ease-in-out, opacity 300ms ease;
+		transform: translate(-50%, -100%);
+	}
+
+	child {
+		transform: translate(-50%, -50%);
+	}
