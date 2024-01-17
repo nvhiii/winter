@@ -66,3 +66,5 @@
 
 1/16/2024 12:47pm - starting css foundations part now
 1/16/2024 1:44pm - finished foundations, on cascading lesson 06 assignment, will come back later
+
+1/17/2024 1:06pm - working on css developer tools on chrome on odin project
