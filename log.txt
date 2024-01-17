@@ -68,3 +68,4 @@
 1/16/2024 1:44pm - finished foundations, on cascading lesson 06 assignment, will come back later
 
 1/17/2024 1:06pm - working on css developer tools on chrome on odin project
+1/17/2024 1:52pm - finished working with DOM tree and google dev tools, familiarization with UI
