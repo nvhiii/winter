@@ -72,3 +72,4 @@
 1/17/2024 7:09pm - CSS Box Model is W.I.P, learning about flex too. Will continue tomorrow.
 
 1/18/2024 10:21am - working on css box model starting now
+1/18/2024 5:50pm - working on flex grow shrink and basis currently, moving to laptop
