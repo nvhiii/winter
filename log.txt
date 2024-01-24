@@ -83,3 +83,4 @@
 1/23/2024 7:36pm - doing exercises for flexbox, mooc after these exercises are done
 
 1/24/2024 12:04pm - working on flexbox more
+1/24/2024 4:31pm - finished flexbox, onto mooc now
