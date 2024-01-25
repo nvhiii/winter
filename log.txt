@@ -85,3 +85,5 @@
 1/24/2024 12:04pm - working on flexbox more
 1/24/2024 4:31pm - finished flexbox, onto mooc now
 1/24/2024 7:00pm - will do rest of files exercises on mooc tomorrow morning. Done for the day.
+
+1/25/2024 4:34pm - classes done, resuming mooc work now	
