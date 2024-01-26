@@ -1,4 +1,5 @@
 // import(s)
+import java.lang.reflect.Array;
 import java.util.Scanner;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -19,6 +20,8 @@ public class SportsStats {
         // arraylists for each data storage + comparison
         ArrayList<String> homeTeams = new ArrayList<>();
         ArrayList<String> awayTeams = new ArrayList<>();
+        ArrayList<String> homeTeamScore = new ArrayList<>();
+        ArrayList<String> awayTeamScore = new ArrayList<>();
 
         // scanner for file name
         Scanner reader = new Scanner(System.in);
@@ -52,31 +55,53 @@ public class SportsStats {
                 homeTeams.add(split[0]);
                 // add away teams to awayTeams arraylist
                 awayTeams.add(split[1]);
-
-                // winner logic for home team
-                
+                // add home team score to arraylist
+                homeTeamScore.add(split[2]);
+                // add away team score to arraylist
+                awayTeamScore.add(split[3]);
 
             }
 
-            for (String ht : homeTeams) {
+            // do a traditional for-loop for implementation here
+            for (int i = 0; i < homeTeams.size(); i++) {
 
-                if (ht.equals(teamName)) {
+                if (homeTeams.get(i).equals(teamName)) {
 
                     teamCount++;
+
+                    if (Integer.valueOf(homeTeamScore.get(i)) > Integer.valueOf(awayTeamScore.get(i))) {
+
+                        winsCount++;
+
+                    } else {
+
+                        lossCount++;
+
+                    }
+
+                } else if (awayTeams.get(i).equals(teamName)) {
+
+                    teamCount++;
+
+                    if (Integer.valueOf(awayTeamScore.get(i)) > Integer.valueOf(homeTeamScore.get(i))) {
+
+                        winsCount++;
+
+                    } else {
+
+                        lossCount++;
+
+                    }
 
                 }
 
             }
 
-            for (String at : awayTeams) {
+            // first, check for when team plays
+            // then, check scores for each entry
+            // need 2 loops i think for when team is away or home to check index, then find appropriate score
 
-                if (at.equals(teamName)) {
 
-                    teamCount++;
-
-                }
-
-            }
 
         } catch (Exception e) {
 
@@ -85,8 +110,8 @@ public class SportsStats {
         }
 
         System.out.println("Games: " + teamCount);
-        System.out.printf("Wins: " + winsCount);
-        System.out.printf("Losses: " + lossCount);
+        System.out.println("Wins: " + winsCount);
+        System.out.println("Losses: " + lossCount);
 
     }
 
