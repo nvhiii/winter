@@ -17,18 +17,23 @@ public class SportsStats {
     public static void main(String[] args) {
 
         // arraylists for each data storage + comparison
-        ArrayList<String> teams = new ArrayList<>();
+        ArrayList<String> homeTeams = new ArrayList<>();
+        ArrayList<String> awayTeams = new ArrayList<>();
+
         // scanner for file name
         Scanner reader = new Scanner(System.in);
 
-        // team counter
+        // team counter var
         int teamCount = 0;
+        // win and loss counter var
+        int winsCount = 0;
+        int lossCount = 0;
 
         // prompt user for file name
         System.out.println("File: ");
         String fileName = reader.nextLine();
 
-        // prompt userfor team
+        // prompt user for team
         System.out.println("Team: ");
         String teamName = reader.nextLine();
 
@@ -43,13 +48,29 @@ public class SportsStats {
                 // logic to split each csv line by comma delimiter
                 String[] split = line.split(",");
 
-                teams.add(split[0]);
+                // add home teams to homeTeams arraylist
+                homeTeams.add(split[0]);
+                // add away teams to awayTeams arraylist
+                awayTeams.add(split[1]);
+
+                // winner logic for home team
+                
 
             }
 
-            for (String t : teams) {
+            for (String ht : homeTeams) {
 
-                if (t.equals(teamName)) {
+                if (ht.equals(teamName)) {
+
+                    teamCount++;
+
+                }
+
+            }
+
+            for (String at : awayTeams) {
+
+                if (at.equals(teamName)) {
 
                     teamCount++;
 
@@ -63,7 +84,9 @@ public class SportsStats {
 
         }
 
-        System.out.println(teamCount);
+        System.out.println("Games: " + teamCount);
+        System.out.printf("Wins: " + winsCount);
+        System.out.printf("Losses: " + lossCount);
 
     }
 
