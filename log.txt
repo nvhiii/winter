@@ -89,3 +89,5 @@
 1/25/2024 4:34pm - classes done, resuming mooc work now	
 
 1/26/2024 4:27pm - working on mooc p5 OOP now.
+
+1/27/2024 12pm - working on some mooc exercises
