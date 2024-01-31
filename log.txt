@@ -94,3 +94,5 @@
 1/27/2024 12:24pm - MOOC p5.1 done
 
 1/30/2024 10:49pm - did work on ai fitness tracker + did landing page for odins project
+
+1/31/2024 1:30pm - read p2 of the numbers section of w3 on js tutiorial
