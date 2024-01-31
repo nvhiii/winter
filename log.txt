@@ -89,3 +89,5 @@
 1/25/2024 4:34pm - classes done, resuming mooc work now	
 
 1/26/2024 4:27pm - working on mooc p5 OOP now.
+
+1/30/2024 10:49pm - did work on ai fitness tracker + did landing page for odins project
