@@ -100,3 +100,5 @@
 2/1/2024 8:21pm - did mdn handling text tutorial, continue odin proj tmm
 
 2/2/2024 6:46pm - working on codefest slides
+
+2/3/2024 2:13pm - finished reading ch1 of tb for ecomm, little break then back to odins project, then this again
