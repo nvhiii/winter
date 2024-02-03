@@ -102,3 +102,4 @@
 2/2/2024 6:46pm - working on codefest slides
 
 2/3/2024 2:13pm - finished reading ch1 of tb for ecomm, little break then back to odins project, then this again
+2/3/2024 6:50pm - js fundamentals exercises done, back to ch2 of ecomm book
