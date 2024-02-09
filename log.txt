@@ -105,3 +105,5 @@
 2/3/2024 6:50pm - js fundamentals exercises done, back to ch2 of ecomm book
 
 2/8/2024 11:21pm - finished google tutorial on js debugging / devtools
+
+2/9/2024 11:09pm - working on js stuff
