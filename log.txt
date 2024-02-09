@@ -103,3 +103,5 @@
 
 2/3/2024 2:13pm - finished reading ch1 of tb for ecomm, little break then back to odins project, then this again
 2/3/2024 6:50pm - js fundamentals exercises done, back to ch2 of ecomm book
+
+2/8/2024 11:21pm - finished google tutorial on js debugging / devtools
