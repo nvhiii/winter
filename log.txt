@@ -113,3 +113,4 @@
 2/12/2024 8:11pm - finishing up korean hw
 
 2/14/2024 11:01am - starting odin proj js from scratch, need some refreshers
+2/14/2024 12:45pm - break done, js numbers w3 tutorial done
