@@ -124,5 +124,5 @@
 2/17/2024 6:19pm - Done with odin project for the day
 
 2/18/2024 12:08pm - Working on homework now.
-
 2/22/2024 4:18pm - Working on Data Types and Conditionals Odin Project 
+2/22/2024 4:50pm - Finished String methods, onto conditionals
