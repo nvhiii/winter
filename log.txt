@@ -127,3 +127,4 @@
 2/22/2024 4:18pm - Working on Data Types and Conditionals Odin Project 
 2/22/2024 4:50pm - Finished String methods, onto conditionals
 2/22/2024 5:48pm - Up to assignment in data types and conditionals
+2/22/2024 7:34pm - Up to javascript dev tools
