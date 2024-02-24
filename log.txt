@@ -135,3 +135,5 @@
 
 2/23/2024 7:19pm - JS fxn basic review.
 2/23/2024 7:35pm - Stopping at JS fxn expressions
+
+2/24/2024 5:07pm - on assignment for fxn odin proj
