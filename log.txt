@@ -129,3 +129,5 @@
 2/22/2024 5:48pm - Up to assignment in data types and conditionals
 2/22/2024 7:34pm - Up to javascript dev tools
 2/22/2024 7:49pm - JS devtools, need to watch video when back home.
+
+2/23/2024 7:19pm - JS fxn basic review.
