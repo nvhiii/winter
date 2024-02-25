@@ -141,3 +141,4 @@
 
 2/25/2024 7:32am - resuming on rock paper scissors assignment
 2/25/2024 1:07pm - onto arrays and loops
+2/25/2024 4:05pm - stopping on arrays and loops
