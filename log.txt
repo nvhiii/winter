@@ -140,3 +140,4 @@
 2/24/2024 6:51pm - up to errors js odins
 
 2/25/2024 7:32am - resuming on rock paper scissors assignment
+2/25/2024 1:07pm - onto arrays and loops
