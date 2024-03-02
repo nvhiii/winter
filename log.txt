@@ -146,3 +146,5 @@
 2/26/2024 8:03pm - on the jsinfo loops documentation
 
 2/28/2024 6:41pm - currently on exercise 4 for array loop odins, taking break
+
+3/1/2024 7:27pm - onto dom manipulation methods, will work on tomorrow
