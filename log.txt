@@ -153,3 +153,4 @@
 3/2/2024 8:25pm - DOM manip MDN doc exercises
 
 3/3/2024 11:01am - DOM manipulation mdn exercises
+3/3/2024 1:55pm - finished dom manipulation odin
