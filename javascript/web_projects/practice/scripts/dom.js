@@ -36,4 +36,6 @@ function alertHello() {
 
 }
 
-myButton.addEventListener('click', alertHello);
+myButton.addEventListener('click', function (e) {
+    e.target.style.background = 'blue';
+});
