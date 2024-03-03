@@ -154,3 +154,4 @@
 
 3/3/2024 11:01am - DOM manipulation mdn exercises
 3/3/2024 1:55pm - finished dom manipulation odin
+3/3/2024 1:56pm - starting stacqd
