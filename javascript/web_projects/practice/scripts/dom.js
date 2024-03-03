@@ -25,3 +25,15 @@ newP.textContent = `ME TOO!`;
 newDiv.appendChild(newP);
 
 container.appendChild(newDiv);
+
+const container2 = document.querySelector("#button-container");
+
+const myButton = document.querySelector("#myButton");
+
+function alertHello() {
+
+    alert("Hello World");
+
+}
+
+myButton.addEventListener('click', alertHello);
