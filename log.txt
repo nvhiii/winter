@@ -155,3 +155,5 @@
 3/3/2024 11:01am - DOM manipulation mdn exercises
 3/3/2024 1:55pm - finished dom manipulation odin
 3/3/2024 1:56pm - starting stacqd
+
+3/5/2024 10:19pm - organized my schedule for task priority
