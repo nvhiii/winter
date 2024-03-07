@@ -24,3 +24,12 @@ myP.textContent = `ME TOO!`;
 myDiv2.appendChild(myP);
 
 myDiv.appendChild(myDiv2);
+
+// create const to hold button and the appropriate response via nodelist (can swap to array if needed)
+const buttons = document.querySelectorAll("button");
+
+buttons.forEach((button) => {
+  button.addEventListener("click", () => {
+    alert(`You pressed button ${button.id}`);
+  });
+});
