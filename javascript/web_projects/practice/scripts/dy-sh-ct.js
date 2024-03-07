@@ -2,6 +2,13 @@ const input = document.querySelector(`input`);
 const button = document.querySelector(`button`);
 const itemList = document.querySelector(`ul`);
 
+input.addEventListener("keypress", (e) => {
+  if (e.key === `Enter`) {
+    e.preventDefault();
+    document.querySelector(`button`).click();
+  }
+});
+
 // add eventlistener
 button.addEventListener(`click`, () => {
   let itemValue = input.value;
