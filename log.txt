@@ -160,3 +160,5 @@
 
 3/7/2024 11:01am - resuming odin proj dom manip
 3/7/2024 2:30pm - onto RPS
+
+3/8/2024 8:30pm - finishing off at object basics assignment, will pick up tmm if have time
